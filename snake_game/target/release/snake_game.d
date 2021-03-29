@@ -1,0 +1,1 @@
+/Users/augustomachado/github/rust_snake_game/snake_game/target/release/snake_game: /Users/augustomachado/github/rust_snake_game/snake_game/src/draw.rs /Users/augustomachado/github/rust_snake_game/snake_game/src/game.rs /Users/augustomachado/github/rust_snake_game/snake_game/src/main.rs /Users/augustomachado/github/rust_snake_game/snake_game/src/snake.rs

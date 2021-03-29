@@ -1,0 +1,7 @@
+/Users/augustomachado/github/rust_snake_game/snake_game/target/release/deps/fnv-f47fc2bba39a9a8d.rmeta: /Users/augustomachado/.cargo/registry/src/github.com-1ecc6299db9ec823/fnv-1.0.7/lib.rs
+
+/Users/augustomachado/github/rust_snake_game/snake_game/target/release/deps/libfnv-f47fc2bba39a9a8d.rlib: /Users/augustomachado/.cargo/registry/src/github.com-1ecc6299db9ec823/fnv-1.0.7/lib.rs
+
+/Users/augustomachado/github/rust_snake_game/snake_game/target/release/deps/fnv-f47fc2bba39a9a8d.d: /Users/augustomachado/.cargo/registry/src/github.com-1ecc6299db9ec823/fnv-1.0.7/lib.rs
+
+/Users/augustomachado/.cargo/registry/src/github.com-1ecc6299db9ec823/fnv-1.0.7/lib.rs:
